@@ -1,0 +1,6 @@
+SingleVisit
+id		name		age		Address		activity zone		activity fee		balance
+111		SaraAli		23		qwe111		BLVD RUH CITY                  		55.000000		0.000000
+333		SaraAhmad		21		23		ROBOTS COMPAT                  		50.000000		0.000000
+232		SaraAhmad		34		qwe123		RUH SAFARI PARK                	55.000000	0.000000
+111	AhmadAli	27	abc232	BLVD RUH CITY                  	55.000000	0.000000

@@ -1,0 +1,3 @@
+Registered
+id		name		age		Address		activity zone		num of companion		activity fee		balance
+333		AmirAMir		24		qwe123		RIYADH TOY FESTIVAL            		0	50.000000	50.000000

@@ -1,0 +1,12 @@
+::ADDING ACTIVITIES::          ::PRICE LIST::          ::DATE::                 ::FREE PASS BY AGE::          ::AGE RESTRICTION::
+
+BLVD RUH CITY                       55.00              2021/11/01-2022/04/01              <12                 -
+RUH SAFARI PARK                     55.00              2021/10/26-2021/12/25              <2                  -
+RUH SAFARI EXPERIENCE               150.00             2021/10/26-2021/12/25              <2                  -
+COMPAT FIELD                        10.00              2021/10/23-2022/03/16              -                   >12
+WINTER WONDER LAND                  55.00              2021/10/27/2022/03/31              -                   -
+QARIAT ZAMAN                        00.00              2021/11/03-2022/01/03              -                   -
+THE GROVES                          150.00             2021/11/01-2022/04/01              <12                 -
+DINOSAUR IN THE WILD EXPERIENCE     150.00             2021/11/11-2022/01/01              -                   >5
+ROBOTS COMPAT                       50.00              2021/11/11-2021/11/30              -                   >12
+RIYADH TOY FESTIVAL                 50.00              2021/11/12-2021/11/21              -                   -
